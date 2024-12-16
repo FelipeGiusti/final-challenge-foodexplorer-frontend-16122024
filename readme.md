@@ -59,3 +59,6 @@ lorem ipsum
  - [Email](felipeegiusti@gmail.com)
  - [LinkedIn](in/felipegiusti2806)
  - [GitHub](https://github.com/felipegiusti)
+
+## Guia de Resolução
+ - [Guia](https://app.rocketseat.com.br/explorer/final-challenge)
