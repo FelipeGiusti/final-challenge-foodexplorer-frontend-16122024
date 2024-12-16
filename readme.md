@@ -61,4 +61,5 @@ lorem ipsum
  - [GitHub](https://github.com/felipegiusti)
 
 ## Guia de Resolução
- - [Guia](https://app.rocketseat.com.br/explorer/final-challenge)
+ - [Entrega](https://app.rocketseat.com.br/explorer/final-challenge)
+ - [Guia](https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-do-desafio-final-do-Explorer-v2-b38a81fe7cb5486e9e3fa600da5b3390?pvs=4)
