@@ -36,19 +36,19 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu sistema:
    git clone https://github.com/usuario/nome-do-repositorio.git
    ```
 2. Navegue até o diretório do projeto:
-  ```bash
-  cd nome-do-repositorio
-  ```
+    ```bash
+    cd nome-do-repositorio
+    ```
 
 3. Instale as dependências (caso aplicável):
-  ```bash
-  [comando para instalar dependências, ex: npm install, pip install -r requirements.txt]
-  ```
+    ```bash
+    [comando para instalar dependências, ex: npm install, pip install -r requirements.txt]
+    ```
 
 4. Para executar o projeto, rode o seguinte comando:
-  ```bash
-  [comando para iniciar o projeto, ex: npm start, python app.py]
-  ```
+    ```bash
+    [comando para iniciar o projeto, ex: npm start, python app.py]
+    ```
 
 5. Abra o navegador e vá para http://localhost:porta para visualizar o projeto.
 
