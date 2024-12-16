@@ -34,37 +34,28 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu sistema:
 
    ```bash
    git clone https://github.com/usuario/nome-do-repositorio.git
-  ´´´
+   ```
 2. Navegue até o diretório do projeto:
-  ´´´bash
+  ```bash
   cd nome-do-repositorio
-  ´´´
+  ```
+
 3. Instale as dependências (caso aplicável):
-  ´´´bash
+  ```bash
   [comando para instalar dependências, ex: npm install, pip install -r requirements.txt]
-  ´´´
+  ```
 
 4. Para executar o projeto, rode o seguinte comando:
-  ´´´bash
+  ```bash
   [comando para iniciar o projeto, ex: npm start, python app.py]
-  ´´´
+  ```
 
 5. Abra o navegador e vá para http://localhost:porta para visualizar o projeto.
 
+## Licença
+lorem ipsum
 ## Contato
  - Felipe Giusti
  - [Email](felipeegiusti@gmail.com)
  - [LinkedIn](in/felipegiusti2806)
  - [GitHub](https://github.com/felipegiusti)
-
-### Explicação dos principais tópicos:
-
-- **Descrição**: Apresenta uma visão geral do projeto e o objetivo do desenvolvimento.
-- **Funcionalidades**: Lista o que o projeto faz, detalhando suas principais funcionalidades.
-- **Tecnologias Utilizadas**: Descreve as ferramentas e tecnologias utilizadas, como frameworks, bibliotecas e linguagens de programação.
-- **Como Executar o Projeto**: Fornece um passo a passo para que outra pessoa consiga rodar o projeto no seu computador, desde o clone do repositório até a execução.
-- **Como Contribuir**: Caso outras pessoas queiram colaborar no projeto, este passo explica como elas podem contribuir.
-- **Licença**: Define a licença do projeto para que outros saibam sob quais termos ele pode ser utilizado.
-- **Contato**: Oferece formas de entrar em contato com o autor do projeto para perguntas ou discussões.
-
-Esse formato pode ser ajustado de acordo com a natureza do seu projeto ou as exigências do curso.
