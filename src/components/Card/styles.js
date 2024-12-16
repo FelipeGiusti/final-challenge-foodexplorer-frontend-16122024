@@ -1,6 +1,5 @@
 import { DEVICE } from '../../styles/device';
 import styled from 'styled-components';
-//import Heart from '../../assets/heart.svg';
 
 export const Container = styled.div`
   width: fit-content;
