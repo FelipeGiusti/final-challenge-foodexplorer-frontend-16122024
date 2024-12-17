@@ -57,7 +57,7 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu sistema:
 5. Abra o navegador e vá para http://localhost:5173 para visualizar o projeto.
 
 ### Back-End
-O projeto backend para executar junto desta aplicação encontra-se no repositório [Back-End Food Explorer]().
+O projeto backend para executar junto desta aplicação encontra-se no repositório [Back-End Food Explorer](https://github.com/FelipeGiusti/final-challenge-foodexplorer-backend-17122024).
 
 ## Licença MIT
 
