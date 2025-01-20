@@ -6,7 +6,7 @@ import { GlobalStyle } from './styles/global.js'
 import { ThemeProvider } from 'styled-components'
 import theme from './styles/theme';
 
-import { Routes } from './routes';
+import { Routes } from './routes.jsx';
 import { AuthProvider } from './hooks/auth.jsx';
 import { SearchProvider } from './hooks/search.jsx';
 import { CartProvider } from './hooks/cart.jsx';
