@@ -59,6 +59,11 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu sistema:
 ### Back-End
 O projeto backend para executar junto desta aplicação encontra-se no repositório [Back-End Food Explorer](https://github.com/FelipeGiusti/final-challenge-foodexplorer-backend-17122024).
 
+### Deploy
+Este projeto está publicado no Netlify para acesso do usuário, basta acessar o link abaixo e se cadastrar ou utilizar as credenciais de admin e usuário.
+
+[Home - Food Explorer](https://foodexplorer-site.netlify.app)
+
 ## Licença MIT
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
